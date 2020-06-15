@@ -13,5 +13,6 @@
         <property name="hibernate.hbm2ddl.auto">update</property>
 
         <mapping class="com.piyush.hibernate.entity.Book"></mapping>
+        <mapping class="com.piyush.hibernate.entity.Person"></mapping>
     </session-factory>
 </hibernate-configuration>
